@@ -3,10 +3,4 @@ Numerical Solution of Propagation of Gaussian Hump over constant depth
 
 $$\nabla^{2} \eta(\boldsymbol{r}, t)-\frac{1}{c^{2}} \frac{\partial^{2} \eta(\boldsymbol{r}, t)}{\partial t^{2}}=0$$
 
-$`\sqrt{2}`$
-
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
-
-![$y=x^{2}$](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+https://latex.codecogs.com/svg.latex?\nabla^{2}%20\eta(\boldsymbol{r},%20t)-\frac{1}{c^{2}}%20\frac{\partial^{2}%20\eta(\boldsymbol{r},%20t)}{\partial%20t^{2}}=0
