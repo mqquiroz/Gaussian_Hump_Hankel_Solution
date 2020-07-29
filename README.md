@@ -13,3 +13,7 @@ Initial Conditions:
 Gaussian Hump:
 
 ![equation](https://latex.codecogs.com/svg.latex?\eta_{0}(r)=a_{0}\exp%20\left(-\frac{2%20r^{2}}{\lambda_{0}^{2}}\right))
+
+Hankel transform:
+
+![equation](https://latex.codecogs.com/svg.latex?\hat{\eta}_{0}(s)%20=\mathcal{H}_{0}\left\{\eta_{0}(r)\right\}=\mathcal{H}_{0}\left\{a_{0}\exp%20\left(-\frac{2%20r^{2}}{\lambda_{0}^{2}}\right)\right\}%20=%20\frac{a_{0}\lambda_{0}^{2}}{4}%20\exp%20\left(-\frac{\lambda_{0}^{2}%20s^{2}}{8}\right))
